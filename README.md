@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To see it directly working
+https://harryconsul.github.io/my-weather/
 
 ## Available Scripts
 
