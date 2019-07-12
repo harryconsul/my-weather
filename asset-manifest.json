@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-weather/static/css/main.6cfc9808.chunk.css",
+    "main.js": "/my-weather/static/js/main.66a2e67f.chunk.js",
+    "main.js.map": "/my-weather/static/js/main.66a2e67f.chunk.js.map",
+    "runtime~main.js": "/my-weather/static/js/runtime~main.37f04531.js",
+    "runtime~main.js.map": "/my-weather/static/js/runtime~main.37f04531.js.map",
+    "static/js/2.96df1c6b.chunk.js": "/my-weather/static/js/2.96df1c6b.chunk.js",
+    "static/js/2.96df1c6b.chunk.js.map": "/my-weather/static/js/2.96df1c6b.chunk.js.map",
+    "index.html": "/my-weather/index.html",
+    "precache-manifest.db363defd6f377dd01b4b3f5bd0da185.js": "/my-weather/precache-manifest.db363defd6f377dd01b4b3f5bd0da185.js",
+    "service-worker.js": "/my-weather/service-worker.js",
+    "static/css/main.6cfc9808.chunk.css.map": "/my-weather/static/css/main.6cfc9808.chunk.css.map",
+    "static/media/App.css": "/my-weather/static/media/bg.1aa07329.jpg",
+    "static/media/ConditionIcon.css": "/my-weather/static/media/weathertime-webfont.b363442b.ttf"
+  }
+}
